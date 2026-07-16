@@ -9,7 +9,7 @@
 | 想法 | 原因 | 状态 |
 | --- | --- | --- |
 | 第二家店 | 当前目标是第一家店的 Session 01 测试 | 停放 |
-| Session 02 | Session 01 尚未验证 | 停放 |
+| Session 02｜LEAVE IT THERE｜放下 | Session 01 尚未验证；仅进入概念发展，不建立完整 Session 文件 | Concept Development |
 | 缝纫 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
 | 插花 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
 | 美甲 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
@@ -31,6 +31,60 @@
 - 进入 Parking Lot 不代表否定，只代表不是当前阶段。
 - 每次 Session 01 测试复盘后，再判断是否有内容可以进入开发。
 - 如果新产品、流程、物料、功能或空间配置不能通过 Challenger 五问，先记录在这里。
+
+## Session Backlog
+
+### Session 02｜LEAVE IT THERE｜放下
+
+状态: Concept Development
+
+当前不建立完整 Session 文件。
+
+核心:
+
+不是针对某一种事件。客户可以将自己的故事带入。
+
+主题:
+
+放下那些不再需要继续携带的东西。
+
+核心句:
+
+```text
+有些东西，可以留在那里了。
+```
+
+背后精神:
+
+```text
+得失从缘，心无增减。
+```
+
+#### Session Card 已确认
+
+第一题:
+
+```text
+这一小时，你希望自己放下什么？
+```
+
+选项:
+
+- 一个过去的阶段。
+- 一个曾经的自己。
+- 一个不再需要的期待。
+- 一种情绪。
+- 一个习惯。
+- 一件未完成的事。
+- 一份执念。
+- 其他。
+
+#### 当前边界
+
+- 不进入当前 MVP。
+- 不建立完整 Session 文件。
+- 不影响 Session 01《重新开始》的研发节奏。
+- 等 Session 01 达到稳定版本后，再决定是否进入正式 Session 开发。
 
 ## Brand Backlog
 

@@ -26,6 +26,10 @@
 ### 工作流
 
 - 新内容先判断层级，再自动归档。
+- 平时讨论属于 Discussion，不直接进入正式仓库。
+- 只有用户明确说“更新到 Codex”“同步正式版本”或“更新 GitHub”时，才修改 GitHub 正式版本。
+- GitHub 仓库 `wd98990921-byte/Piano-by-her` 是唯一正式版本（Single Source of Truth）。
+- Notion 是项目管理中心，用于日常待办、Roadmap、Meeting Notes、灵感、临时资料和运营管理。
 - 影响品牌定位、产品哲学、体验理念、长期方向: 同步 Brand Philosophy。
 - 不属于当前 MVP: 进入 Parking Lot。
 - 重要决策和原因: 进入 Decision Log。

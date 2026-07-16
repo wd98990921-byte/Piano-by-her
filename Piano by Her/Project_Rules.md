@@ -86,6 +86,202 @@ Piano by Her 是一个以 Session 为核心的人生体验品牌。
 
 判断目标不是做更多，而是维护长期产品系统，帮助项目集中在当前 MVP: Session 01《重新开始》。
 
+## GitHub 仓库维护规则
+
+GitHub 仓库 `wd98990921-byte/Piano-by-her` 是 Piano by Her 项目的唯一正式版本（Single Source of Truth）。
+
+所有正式内容均维护在该仓库中。
+
+### ChatGPT 与 Codex 分工
+
+ChatGPT 负责:
+
+- 产品讨论。
+- 品牌讨论。
+- Session 设计。
+- 商业策略。
+- 创意发散方案推演。
+
+这些内容属于 Discussion，不直接进入正式仓库。
+
+Codex 负责:
+
+- 更新正式文档。
+- 保持项目结构一致。
+- 更新 GitHub。
+- 保持版本历史完整。
+
+Codex 是 Project Manager，不是讨论者。
+
+### 允许更新 GitHub 的条件
+
+只有当用户明确说以下任一表达时，才允许修改正式仓库:
+
+- 更新到 Codex
+- 同步正式版本
+- 更新 GitHub
+
+平时讨论内容不要提前写入仓库。
+
+未经用户确认的内容，一律视为草稿，不进入正式仓库。
+
+### 每次正式更新必须完成
+
+1. 更新对应文档，例如 Brand、Session、Space、Product、Task、Framework 等。
+2. 更新 Decision Log，记录今天做了哪些正式决定、为什么这么决定、影响哪些模块。
+3. 更新 Version Log，记录日期、版本、更新内容和重大变更。
+4. 如果目录发生变化，必须同步 README 与 Project Index。
+5. Commit，Commit Message 必须有意义。
+6. Push 到 GitHub main，不停留在本地。
+
+Commit Message 示例:
+
+- Session01 Restart finalized
+- Landing Room workflow updated
+- Brand Philosophy refinement
+- Membership product update
+
+禁止使用没有意义的 Commit Message，例如 `update`、`fix`、`123`。
+
+### Git 操作前检查
+
+每次进行任何 Git 操作之前，必须先检查:
+
+- 当前 branch。
+- remote。
+- latest commit。
+- 工作区是否干净。
+
+如果仓库已经初始化且 GitHub 已连接，不重复执行 `git init`、`git remote add` 等初始化命令。
+
+### 不允许
+
+未经确认，不允许:
+
+- 删除文件。
+- 修改项目结构。
+- 大规模重构。
+- 覆盖历史内容。
+
+如果需要结构调整，必须先询问用户。
+
+如果用户明确要求恢复历史版本，优先通过 Git 历史（Commit History）恢复，而不是手工覆盖文件。
+
+### 项目结构原则
+
+保持目前结构:
+
+- Brand
+- Session
+- Space
+- Product
+- Task
+- Decision Log
+- Version Log
+- README
+- Project Index
+- Project Rules
+
+不要随意增加新的一级目录。
+
+新增内容优先放到已有体系。
+
+### Session 开发规则
+
+Session 永远采用:
+
+讨论 → 稳定 → 正式更新 → Commit → Push
+
+不要边讨论边修改正式版本。
+
+### 正式更新后的输出格式
+
+每次正式更新结束，必须输出 Update Summary:
+
+```markdown
+# Update Summary
+
+## 本次更新
+
+✅ 修改文件
+
+新增：
+
+修改：
+
+删除：
+
+Decision Log：
+
+Version Log：
+
+Commit：
+
+xxxxxxxx
+
+Push：
+
+成功
+
+## 下一步建议（最多三项）
+
+1.
+2.
+3.
+```
+
+## Notion 协作规则
+
+项目采用 Notion + GitHub 双系统。
+
+Notion 是项目管理中心（Workspace），负责:
+
+- Daily Task（日常待办）。
+- Sprint / Timeline。
+- Roadmap。
+- Meeting Notes。
+- 灵感收集。
+- 临时资料。
+- 数据库管理。
+- 日常运营。
+
+Notion 允许保存:
+
+- 草稿。
+- 临时修改。
+- 未成熟想法。
+- 实验内容。
+
+GitHub 是正式项目仓库（Source of Truth），保存确认后的正式版本:
+
+- Brand。
+- Session。
+- Space。
+- Product。
+- Framework。
+- README。
+- Project Rules。
+- Decision Log。
+- Version Log。
+
+以后如果用户说“更新到 Codex”，除了更新 GitHub 外，Codex 需要同时判断是否存在对应的 Notion 正式数据库，例如:
+
+- Session Database。
+- Product Database。
+- Space Database。
+- Decision Database。
+- Task Database。
+
+如果存在对应内容，需要保持 Notion 与 GitHub 的正式内容一致。
+
+长期原则:
+
+- Notion = 项目管理（Project Management）。
+- GitHub = 产品知识库（Product Knowledge Base）。
+- GitHub 不负责运营。
+- Notion 不负责版本管理。
+- 任何正式版本更新，都以 GitHub 为最终版本源。
+
 ## 项目瘦身规则
 
 Piano by Her 的日常开发只围绕五个模块:

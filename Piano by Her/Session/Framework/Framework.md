@@ -12,6 +12,63 @@
 
 不要先进入大量理论。
 
+## Session 更新流程补充
+
+在不改变日常三问的基础上，未来每个 Session 进入产品化定义时，按以下顺序补齐:
+
+1. Session Card
+2. Piano Song
+3. Emotion Card
+
+### ① Session Card
+
+Session Card 是客户进入 Session 前填写的主题卡。
+
+固定结构:
+
+- Piano by Her 品牌视觉。
+- Session 名称。
+- 中文主题。
+- 主题相关第一题，每个 Session 根据主题变化。
+- 当下状态第二题，保持统一。
+
+第二题统一为:
+
+```text
+此刻，你是什么样子的？
+```
+
+作用是让客户在进入 Session 前确认自己的当下状态。
+
+### ② Piano Song
+
+每个 Session 需要确定对应钢琴曲。
+
+制作流程:
+
+1. 确定曲目。
+2. 制作老师使用曲谱。
+3. 制作 Lesson Video。
+
+老师使用曲谱用于教学，并根据体验者情况调整，不作为客户交付物。
+
+Lesson Video 包含:
+
+- 左手教学。
+- 右手教学。
+- 合手练习。
+- 左右手指法提示。
+
+Hand & Fingering Guide 用于解决成人体验者知道音符但不知道手指安排的问题。
+
+### ③ Emotion Card
+
+Emotion Card 是 Session 结束时客户带走的情绪卡。
+
+它不是普通纪念卡。
+
+作用是记录并保留完成 Session 后的核心情绪。
+
 ## ① User Journey
 
 User Journey 是用户从推门进入，到最后离开的全过程。

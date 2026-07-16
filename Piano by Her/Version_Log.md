@@ -216,3 +216,53 @@ Session 01 已从体验概念进入可交付版本，需要明确曲目、教学
 - 钢琴教学模式: ☑ 定稿
 - Lesson Video 产品定位: ☑ 定稿
 - 仍待完成: Session Card 背面、Journey Photo 标准、Landing Room 体验、Journey Film 标准、4次教学进度、完成判定标准
+
+## v0.12 - 2026-07-14
+
+### 更新
+
+- 明确 GitHub 仓库 `wd98990921-byte/Piano-by-her` 是 Piano by Her 的唯一正式版本（Single Source of Truth）。
+- 明确 ChatGPT 负责产品讨论、品牌讨论、Session 设计、商业策略和创意推演，这些内容属于 Discussion，不直接进入正式仓库。
+- 明确 Codex 负责正式文档更新、GitHub 更新和版本历史维护。
+- 新增 GitHub 更新触发条件: 只有用户明确说“更新到 Codex”“同步正式版本”或“更新 GitHub”时，才修改正式仓库。
+- 新增正式更新流程: 更新对应文档、Decision Log、Version Log、必要时 README / Project Index、Commit、Push。
+- 新增 Notion + GitHub 双系统规则: Notion 是项目管理中心，GitHub 是产品知识库和正式版本源。
+- 同步更新 README、Project Rules、Project Index、Decision Log、Version Log。
+
+### 升级原因
+
+项目已经完成 GitHub 初始化并推送，需要建立长期仓库维护规则，区分讨论草稿、日常项目管理和正式版本，避免边讨论边修改正式仓库。
+
+### 当前状态
+
+- GitHub Single Source of Truth: ☑ 已确定
+- Notion 项目管理中心定位: ☑ 已确定
+- 正式更新触发条件: ☑ 已确定
+- Commit / Push 工作流: ☑ 已确定
+
+## v0.13 - 2026-07-16
+
+### 更新
+
+- 补充 Session 产品更新流程: Session Card → Piano Song → Emotion Card。
+- 明确 Session Card 固定结构: 品牌视觉、Session 名称、中文主题、主题相关第一题、统一当下状态第二题。
+- 明确统一第二题为: “此刻，你是什么样子的？”
+- 明确 Piano Song 制作流程: 确定曲目、制作老师使用曲谱、制作 Lesson Video。
+- 明确老师曲谱用于教学并根据体验者情况调整，不作为客户交付物。
+- 更新 Lesson Video 内容，加入左手教学、右手教学、合手练习、左右手指法提示。
+- 新增 Hand & Fingering Guide，作为 Lesson Video 内部内容，解决成人体验者知道音符但不知道手指安排的问题。
+- 新增 Emotion Card 定位: Session 结束时客户带走的情绪卡，用于记录并保留完成 Session 后的核心情绪。
+- 记录 Session 01 Emotion Card 背面文案: “愿你永远记得，你拥有重新开始的力量。”
+- 更新 Session 02｜LEAVE IT THERE｜放下至 Parking Lot，状态为 Concept Development，不建立完整 Session 文件。
+
+### 升级原因
+
+本次更新补齐 Session 产品层的轻量顺序，同时保持 Session 01 正式结构不变。Session 02 只记录已确认概念，不进入当前 MVP 开发。
+
+### 当前状态
+
+- Session 产品更新流程: ☑ 已补充
+- Hand & Fingering Guide: ☑ 已作为 Lesson Video 内部内容记录
+- Emotion Card: ☑ 已记录定位
+- Session 02｜LEAVE IT THERE: ☑ 已进入 Parking Lot
+- Session 01 正式结构: 未改变

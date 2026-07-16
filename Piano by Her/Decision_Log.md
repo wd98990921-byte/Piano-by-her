@@ -232,3 +232,43 @@
 - 这个决定解决了什么问题: 单次体验交付 Session Card、Journey Photo、完整 Lesson Video；完整完成该 Session 后，再交付专属 Journey Film / 成品弹奏视频。
 - 以后如果重新设计，需要注意什么: Journey Film 只给完整完成 Session 的客人；Journey Photo 更适合作为单次体验纪念。
 - 影响模块: Session 01, Products, Media, Testing
+
+## 2026-07-14
+
+### Decision: GitHub 成为唯一正式版本，Notion 成为项目管理中心
+
+- 状态: ☑ 已完成
+- 为什么这样做: Piano by Her 已经完成第一次 GitHub Push，需要把正式知识库和日常讨论/运营空间分开，避免每次讨论都提前污染正式仓库。
+- 为什么不用其他方案: 如果所有讨论都直接写进 GitHub，正式版本会变成草稿堆；如果只用 Notion，项目缺少清晰的版本历史和可追溯的正式文档；如果 ChatGPT、Codex、GitHub、Notion 职责不清，后续维护会混乱。
+- 这个决定解决了什么问题: 明确 ChatGPT 是讨论空间，Codex 是正式项目维护者，GitHub 是产品知识库和 Single Source of Truth，Notion 是项目管理中心。
+- 以后如果重新设计，需要注意什么: 只有用户明确说“更新到 Codex”“同步正式版本”或“更新 GitHub”时，才修改正式仓库；未经确认的内容一律视为草稿。任何正式更新都必须同步对应文档、Decision Log、Version Log，并 Commit / Push 到 main。
+- 影响模块: README, Project Rules, Project Index, Decision Log, Version Log
+
+## 2026-07-16
+
+### Decision: Session 产品更新流程补充为 Session Card → Piano Song → Emotion Card
+
+- 状态: ☑ 已完成
+- 为什么这样做: Session 需要保持日常开发简单，但进入产品化定义时，需要有稳定顺序，避免先做物料或视频而丢失体验主线。
+- 为什么不用其他方案: 如果直接扩展复杂课程结构，会让项目重新变成教学系统；如果不定义产品更新顺序，Session Card、曲目、Lesson Video、Emotion Card 容易散落在不同文档。
+- 这个决定解决了什么问题: 明确 Session Card 用于进入前确认主题与当下状态；Piano Song 负责曲目、老师曲谱和 Lesson Video；Emotion Card 负责结束时保留核心情绪。
+- 以后如果重新设计，需要注意什么: 这只是产品更新顺序，不改变 Session 01 现有正式结构，也不允许把产品开发放到体验之前。
+- 影响模块: Session Framework, Products
+
+### Decision: Lesson Video 增加 Hand & Fingering Guide
+
+- 状态: ☑ 已完成
+- 为什么这样做: 成人体验者可能知道音符，但不知道手指如何安排。左右手指法提示能降低进入钢琴体验的阻力。
+- 为什么不用其他方案: 不恢复纸质谱、数字谱、琴键贴纸或复杂动态键盘，因为这些会增加产品复杂度，并偏离 MVP 轻量原则。
+- 这个决定解决了什么问题: 在不新增复杂交付物的前提下，让 Lesson Video 承担必要的手指安排提示。
+- 以后如果重新设计，需要注意什么: Hand & Fingering Guide 是 Lesson Video 内部内容，不是新增独立客户交付物。
+- 影响模块: Products, Session Framework
+
+### Decision: Session 02｜LEAVE IT THERE 只进入 Parking Lot 的 Concept Development
+
+- 状态: ☑ 已完成
+- 为什么这样做: Session 02 已有明确方向，但 Session 01 仍是当前 MVP，不应建立完整 Session 文件或打断当前研发节奏。
+- 为什么不用其他方案: 如果现在创建完整 Session 02 文档，会提前扩展 Session 系统；如果完全不记录，又会丢失已确认的概念方向。
+- 这个决定解决了什么问题: 将 Session 02｜LEAVE IT THERE｜放下保留为未来概念，记录主题、核心句、精神和已确认的 Session Card 第一题。
+- 以后如果重新设计，需要注意什么: Session 02 不针对某一种事件，而是让客户将自己的故事带入；正式开发必须等 Session 01 达到稳定版本后再启动。
+- 影响模块: Parking Lot, Session Framework, Products

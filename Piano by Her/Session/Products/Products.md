@@ -31,11 +31,77 @@
 
 如果不能明确通过，先进入 [Parking Lot](../../Parking%20Lot（以后再做）/ParkingLot.md)。
 
+## Session 产品更新流程
+
+未来每个 Session 的产品定义按以下顺序补齐:
+
+1. Session Card
+2. Piano Song
+3. Emotion Card
+
+### Session Card
+
+Session Card 是客户进入 Session 前填写的主题卡。
+
+固定结构:
+
+- Piano by Her 品牌视觉。
+- Session 名称。
+- 中文主题。
+- 主题相关第一题，每个 Session 根据主题变化。
+- 当下状态第二题，保持统一。
+
+第二题统一为:
+
+```text
+此刻，你是什么样子的？
+```
+
+### Piano Song
+
+每个 Session 需要确定对应钢琴曲。
+
+制作流程:
+
+1. 确定曲目。
+2. 制作老师使用曲谱。
+3. 制作 Lesson Video。
+
+老师使用曲谱用于老师教学，并根据体验者情况调整，不作为客户交付物。
+
+Lesson Video 包含:
+
+- 左手教学。
+- 右手教学。
+- 合手练习。
+- 左右手指法提示。
+
+Hand & Fingering Guide 用于解决成人体验者知道音符但不知道手指安排的问题。
+
+### Emotion Card
+
+Emotion Card 是 Session 结束时客户带走的情绪卡。
+
+它不是普通纪念卡。
+
+作用是记录并保留完成 Session 后的核心情绪。
+
+Session 01:
+
+- RESTART｜重新开始
+- 背面文案:
+
+```text
+愿你永远记得，
+你拥有重新开始的力量。
+```
+
 ## 候选物料
 
 | 状态 | 产品 | 用途 | 关联 |
 | --- | --- | --- | --- |
 | ☑ | Session Card | 单次体验交付物，正面已定稿，背面待完成 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
+| ☑ | Emotion Card | Session 结束时带走的情绪卡，记录并保留核心情绪 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | Journey Photo | 单次体验纪念，拍摄标准待完成 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | Lesson Video | 完整标准示范视频，作为电子曲谱 / 记忆辅助 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | Teacher Score | 老师内部教学使用，客人不看五线谱 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
@@ -52,6 +118,8 @@ Lesson Video 只制作一支完整标准示范视频:
 
 - 展示双手与琴键。
 - 保留完整演奏。
+- 包含左手教学、右手教学、合手练习。
+- 包含左右手指法提示，作为 Hand & Fingering Guide。
 - 不做单手版、双手版、分段教学版。
 - 不做逐课进度说明。
 - 不做个性化剪辑。
