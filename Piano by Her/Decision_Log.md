@@ -272,3 +272,12 @@
 - 这个决定解决了什么问题: 将 Session 02｜LEAVE IT THERE｜放下保留为未来概念，记录主题、核心句、精神和已确认的 Session Card 第一题。
 - 以后如果重新设计，需要注意什么: Session 02 不针对某一种事件，而是让客户将自己的故事带入；正式开发必须等 Session 01 达到稳定版本后再启动。
 - 影响模块: Parking Lot, Session Framework, Products
+
+### Decision: Piano Fingering Guide 与 Session Song Reveal 暂存 Parking Lot
+
+- 状态: ☑ 已完成
+- 为什么这样做: 两个想法都可能改善 Session 体验，但目前尚未通过真实测试验证，也不应立刻增加当前 MVP 的物料和流程复杂度。
+- 为什么不用其他方案: 如果现在直接制作钢琴指法指引牌，可能与 Lesson Video 中的 Hand & Fingering Guide 重复；如果现在直接改变歌曲呈现时机，可能影响现有 Session 01 流程而没有测试依据。
+- 这个决定解决了什么问题: 保留两个有价值的体验优化方向，同时不打断 Session 01 当前研发节奏。
+- 以后如果重新设计，需要注意什么: Piano Fingering Guide 应先验证是否被 Lesson Video 内部指法提示替代；Session Song Reveal 当前倾向方案 B，即在填写 Session Card 时播放曲目，但仍需讨论与测试。
+- 影响模块: Parking Lot, Products, Session Framework, Session 01

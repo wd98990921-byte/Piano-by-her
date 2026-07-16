@@ -266,3 +266,25 @@ Session 01 已从体验概念进入可交付版本，需要明确曲目、教学
 - Emotion Card: ☑ 已记录定位
 - Session 02｜LEAVE IT THERE: ☑ 已进入 Parking Lot
 - Session 01 正式结构: 未改变
+
+## v0.14 - 2026-07-16
+
+### 更新
+
+- Parking Lot 新增 Piano Fingering Guide（钢琴指法指引牌），状态为待设计 / 待验证。
+- 记录 Piano Fingering Guide 的目的: 降低成人体验者第一次接触钢琴时的学习门槛。
+- 记录 Piano Fingering Guide 待研究内容: 呈现方式、材质、尺寸、是否长期放置在钢琴旁。
+- Parking Lot 新增 Session Song Reveal（歌曲呈现时机），状态为待讨论。
+- 记录两个待讨论方案: Before We Meet 阶段提前发送歌曲；或进入 Session 后填写 Session Card 时播放曲目。
+- 记录当前倾向: 方案 B，让歌曲成为 Session 开始的一部分，而不是预约前的信息。
+- Decision Log 记录以上两个事项暂存 Parking Lot 的原因。
+
+### 升级原因
+
+两个想法都可能优化体验，但目前尚未验证，不应直接增加当前 MVP 的物料或改变 Session 01 正式流程。
+
+### 当前状态
+
+- Piano Fingering Guide: 🅿️ Parking Lot，待设计 / 待验证
+- Session Song Reveal: 🅿️ Parking Lot，待讨论
+- Session 01 正式结构: 未改变
