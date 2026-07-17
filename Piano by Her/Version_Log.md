@@ -288,3 +288,21 @@ Session 01 已从体验概念进入可交付版本，需要明确曲目、教学
 - Piano Fingering Guide: 🅿️ Parking Lot，待设计 / 待验证
 - Session Song Reveal: 🅿️ Parking Lot，待讨论
 - Session 01 正式结构: 未改变
+
+## v0.15 - 2026-07-17
+
+### 更新
+
+- 新增 [AI Constitution](./AI_Constitution.md) 作为未来 AI Agent 的长期判断规则。
+- 明确 AI Constitution 不替代 Brand Philosophy。
+- 初版总结 Piano by Her 是什么、不是什么、决策优先级、新想法开发前的问题，以及 AI Agent 工作原则。
+
+### 升级原因
+
+随着项目逐渐由 AI 协助长期维护，需要一个简洁的 AI 判断规则文档，帮助未来 Agent 在不复杂化项目的前提下保持方向一致。
+
+### 当前状态
+
+- AI Constitution: ☑ 初版已建立
+- Brand Philosophy: 保持最高品牌文档地位
+- Session 01 正式结构: 未改变
