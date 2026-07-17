@@ -1,5 +1,49 @@
 # Decision Log
 
+## Purpose
+
+Decision Log is the Decision Library for Piano by Her.
+
+It does not only record final decisions.
+
+It records the logic behind important decisions so future AI Agents can understand why a direction was chosen, what alternatives were considered, and how the decision should be validated later.
+
+Existing historical entries are preserved as they are.
+
+Future important decisions should use the template below.
+
+## Future Decision Template
+
+### Decision: [Decision Title]
+
+- Status:
+- Date:
+- Impacted Modules:
+
+#### 1. Decision
+
+What was decided?
+
+#### 2. Context
+
+Why did this decision need to be made at that moment?
+
+#### 3. Options Considered
+
+What options were considered?
+
+#### 4. Final Choice
+
+What option was chosen?
+
+#### 5. Reasoning
+
+Why was this option chosen over the alternatives?
+
+#### 6. Future Validation
+
+How will we know later whether this decision was right?
+
 ## 2026-07-08
 
 ### 决策: 当前只开发 Session 01《重新开始》

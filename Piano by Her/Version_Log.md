@@ -306,3 +306,22 @@ Session 01 已从体验概念进入可交付版本，需要明确曲目、教学
 - AI Constitution: ☑ 初版已建立
 - Brand Philosophy: 保持最高品牌文档地位
 - Session 01 正式结构: 未改变
+
+## v0.16 - 2026-07-17
+
+### 更新
+
+- 升级 [Decision Log](./Decision_Log.md) 的文档定位。
+- 明确 Decision Log 是未来 AI Agent 理解决策逻辑的 Decision Library。
+- 新增未来重要决策模板: Decision、Context、Options Considered、Final Choice、Reasoning、Future Validation。
+- 保留已有历史决策内容，不重新整理全部历史。
+
+### 升级原因
+
+未来 AI Agent 需要理解的不只是项目做了什么决定，还需要理解当时为什么做、曾考虑什么选择、为什么选择当前方案，以及未来如何验证。
+
+### 当前状态
+
+- Decision Log: ☑ 已建立未来决策模板
+- 历史决策内容: 已保留，未重整
+- Brand Philosophy / Project Rules / Session Framework: 未修改
