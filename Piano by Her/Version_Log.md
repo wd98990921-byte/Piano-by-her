@@ -344,3 +344,22 @@ Session 01 已从体验概念进入可交付版本，需要明确曲目、教学
 - Customer Feedback Library: ☑ 初版已建立
 - 当前客户反馈: 暂无记录
 - Brand Philosophy / Session Framework: 未修改
+
+## v0.18 - 2026-07-17
+
+### 更新
+
+- 更新 [Project Rules](./Project_Rules.md)。
+- 新增 AI Collaboration Workflow。
+- 明确 ChatGPT、Notion、Codex、GitHub 的协作流程: Capture → Develop → Commit → Version。
+- 明确所有新想法、灵感、未验证方向先进入 Notion Inbox / Parking Lot，不直接进入正式项目文档。
+- 明确原则: 先探索，再确认，再归档。
+
+### 升级原因
+
+项目需要避免每一个小想法都进入正式文档，保持 GitHub 正式仓库轻量、清晰、可追溯。
+
+### 当前状态
+
+- AI Collaboration Workflow: ☑ 已加入 Project Rules
+- Brand Philosophy / Session Framework: 未修改
