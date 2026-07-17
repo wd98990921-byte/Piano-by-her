@@ -325,3 +325,22 @@ Session 01 已从体验概念进入可交付版本，需要明确曲目、教学
 - Decision Log: ☑ 已建立未来决策模板
 - 历史决策内容: 已保留，未重整
 - Brand Philosophy / Project Rules / Session Framework: 未修改
+
+## v0.17 - 2026-07-17
+
+### 更新
+
+- 新增 [Customer Feedback Library](./Customer_Feedback_Library.md)。
+- 建立未来真实客户反馈记录模板。
+- 模板包含 Date、Customer Context、Feedback Source、Customer Words、Observation、Insight、Related Area、Future Action。
+- 明确该文档不是 CRM，不添加虚构客户反馈。
+
+### 升级原因
+
+未来 AI Agent 需要理解真实客户为什么喜欢 Piano by Her、在哪些体验环节发生情绪变化，以及有哪些疑问和阻碍。
+
+### 当前状态
+
+- Customer Feedback Library: ☑ 初版已建立
+- 当前客户反馈: 暂无记录
+- Brand Philosophy / Session Framework: 未修改
