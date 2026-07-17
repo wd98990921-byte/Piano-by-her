@@ -363,3 +363,23 @@ Session 01 已从体验概念进入可交付版本，需要明确曲目、教学
 
 - AI Collaboration Workflow: ☑ 已加入 Project Rules
 - Brand Philosophy / Session Framework: 未修改
+
+## v0.19 - 2026-07-17
+
+### 更新
+
+- 更新 [Project Rules](./Project_Rules.md) 中的 GitHub 同步规则。
+- 明确 Codex 不再执行 `git push origin main`。
+- 明确 Codex 负责修改正式文档、创建 commit、输出 Update Summary、告知当前 commit 状态。
+- 明确 GitHub push 由用户在终端手动执行。
+- 更新 Update Summary 中 Push 部分的标准表达。
+
+### 升级原因
+
+终端环境的 GitHub 凭证和 VPN 代理更稳定。由用户手动 push，可以避免 Codex 环境出现 HTTPS 443、Keychain、Token、代理等问题。
+
+### 当前状态
+
+- Codex push 行为: 已停止
+- GitHub 同步方式: 用户终端手动执行 `git push origin main`
+- Brand Philosophy / Session Framework: 未修改
