@@ -383,3 +383,29 @@ Session 01 已从体验概念进入可交付版本，需要明确曲目、教学
 - Codex push 行为: 已停止
 - GitHub 同步方式: 用户终端手动执行 `git push origin main`
 - Brand Philosophy / Session Framework: 未修改
+
+## v0.20 - 2026-07-19
+
+### 更新
+
+- 新增 [AI Agent Progress](./AI_Agent_Progress.md)。
+- 记录 2026-07-17 PBH AI Agent Prototype v1 的真实开发进度。
+- 记录 Notion API 已作为稳定备用执行通道，用于创建、读取和修改 Notion 内容。
+- 记录 Founder Dashboard V2、Projects Database、Tasks Database、四个 Dashboard views，以及 Tasks 与 Projects Relation 已完成。
+- 记录 Agent 当前能力: 读取 Projects / Tasks、修改 Current Focus、自动创建 Tasks、自动关联 Tasks 与 Projects、自动填写 Status / Priority / Source。
+- 记录测试期间 Session · Restart 曾被设为唯一 Current Focus，并生成多轮测试任务。
+- 明确这些测试任务不代表正式项目决策。
+- 记录正式 Current Focus 应恢复为 Session · Leave It There（放下）和 AI Agent System（AI 智能员工系统）。
+
+### 升级原因
+
+PBH AI Agent 已从概念进入可运行原型阶段，需要将真实开发进度沉淀到正式项目文档中，方便未来追踪 Notion API、Founder Dashboard 和自动任务系统的演进。同时避免把测试数据误认为正式产品决策。
+
+### 当前状态
+
+- PBH AI Agent Prototype v1: ☑ 已记录
+- Notion API 稳定备用通道: ☑ 已记录
+- Founder Dashboard / Projects / Tasks: ☑ 已记录
+- 测试数据风险: ☑ 已标记
+- 架构重构: 未进行
+- GitHub push: 未执行，由用户手动完成
