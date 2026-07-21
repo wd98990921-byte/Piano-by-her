@@ -438,3 +438,28 @@ Session 系统的交付物需要更清晰地承接用户离开前的情绪记忆
 - Session 02 Lesson Video: ☑ 完成
 - Session 02 临别赠卡: ☑ 完成
 - GitHub push: 未执行，由用户手动完成
+
+## v0.22 - 2026-07-21
+
+### 更新
+
+- 更新 [AI Constitution](./AI_Constitution.md)。
+- 新增 Zero Trust Governance（零信任治理机制）。
+- 明确 AI Agent 的项目状态、建议、任务生成、结构调整、决策建议必须提供 Evidence。
+- 明确没有 Evidence 时，只能标记为“需要验证 / 待确认”。
+- 明确 AI 输出必须区分 Fact / Hypothesis / Recommendation。
+- 明确重要修改必须经过 Creator Review。
+- 明确 AI Agent 的目标是整理信息、减少认知负担、辅助执行、保护长期品牌一致性，而不是替代创始人思考。
+
+### 升级原因
+
+AI Agent System 已开始参与 Notion、GitHub 与项目文档维护，需要建立零信任治理机制，防止 AI 把推测当事实、把建议当决定，或主动扩展系统复杂度。
+
+### 当前状态
+
+- Zero Trust Governance: ☑ 已加入 AI Constitution
+- Creator Review: ☑ 已加入 AI Constitution
+- Fact / Hypothesis / Recommendation 输出边界: ☑ 已加入 AI Constitution
+- Session / Brand / Product / Task 内容: 未修改
+- 新任务: 未创建
+- GitHub push: 未执行，由用户手动完成
