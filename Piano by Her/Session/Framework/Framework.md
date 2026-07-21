@@ -19,6 +19,17 @@
 1. Session Card
 2. Piano Song
 3. Emotion Card
+4. 临别赠卡
+
+### 通用交付物
+
+每个 Session 的正式交付物都包含:
+
+- Session Card。
+- Lesson Video。
+- 临别赠卡。
+
+Before We Meet 是每个 Session 通用的预约前信息收集与准备环节，目前状态为完成。
 
 ### ① Session Card
 
@@ -68,6 +79,12 @@ Emotion Card 是 Session 结束时客户带走的情绪卡。
 它不是普通纪念卡。
 
 作用是记录并保留完成 Session 后的核心情绪。
+
+### ④ 临别赠卡
+
+临别赠卡是每个 Session 离开前交给客户的正式交付物。
+
+它用于承接 Session 结束时的情绪，让客户带走一句与本次 Session 相关的话。
 
 ## ① User Journey
 
@@ -134,6 +151,7 @@ Products 是为了这个 Session 需要制作的东西。
 - 视频
 - Lesson Video
 - Teacher Score（老师内部使用）
+- 临别赠卡
 - 照片模板
 
 产品永远服务体验。

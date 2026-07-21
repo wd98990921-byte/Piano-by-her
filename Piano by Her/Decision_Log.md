@@ -325,3 +325,25 @@ How will we know later whether this decision was right?
 - 这个决定解决了什么问题: 保留两个有价值的体验优化方向，同时不打断 Session 01 当前研发节奏。
 - 以后如果重新设计，需要注意什么: Piano Fingering Guide 应先验证是否被 Lesson Video 内部指法提示替代；Session Song Reveal 当前倾向方案 B，即在填写 Session Card 时播放曲目，但仍需讨论与测试。
 - 影响模块: Parking Lot, Products, Session Framework, Session 01
+
+## 2026-07-21
+
+### Decision: 每个 Session 的正式交付物加入临别赠卡
+
+- Decision: 每个 Session 的正式交付物都加入临别赠卡；Session 01《重新开始》的临别赠卡已设计完成，Session Card 背面内容已完成。
+- Context: Session 需要在用户离开前承接体验后的情绪，让她带走一句与本次 Session 相关的话，而不是只留下学习材料或照片。
+- Options Considered: 只保留 Session Card、Lesson Video、Journey Photo；将临别赠卡作为可选物料；将临别赠卡纳入每个 Session 的正式交付物。
+- Final Choice: 将临别赠卡纳入每个 Session 的正式交付物。
+- Reasoning: 临别赠卡直接服务离开时的情绪承接和记忆保留，符合 Session 以体验和 Transformation 为核心的定位；同时它足够轻量，不会增加复杂系统。
+- Future Validation: 真实用户测试时观察用户是否理解并保留临别赠卡，以及它是否帮助用户记住 Session 的核心情绪。
+- 影响模块: Session Framework, Session 01, Products, Task Board
+
+### Decision: Session 02《放下》继续停留在 Parking Lot，但记录已确认制作进度
+
+- Decision: Session 02｜LEAVE IT THERE｜放下继续不建立完整 Session 文件；仅在 Parking Lot 记录曲目 Sometimes Someone、Teacher Score、Session Card、Lesson Video 已完成，临别赠卡待完成。
+- Context: Session 02 已出现多个确认成果，但当前 MVP 仍是 Session 01《重新开始》，不能让 Session 02 打断当前测试节奏。
+- Options Considered: 立即创建 Session 02 完整文档；完全不记录 Session 02 新进度；在 Parking Lot 中记录已确认事实但不启动正式开发。
+- Final Choice: 在 Parking Lot 中记录 Session 02 已确认制作进度，维持 Concept Development 状态。
+- Reasoning: 这样既不丢失已经完成的资产，也不把 Session 02 提前推入当前 MVP。
+- Future Validation: Session 01 达到稳定版本后，再判断 Session 02 是否进入正式 Session 开发。
+- 影响模块: Parking Lot, Products, Task Board

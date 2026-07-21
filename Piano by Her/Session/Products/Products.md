@@ -38,6 +38,17 @@
 1. Session Card
 2. Piano Song
 3. Emotion Card
+4. 临别赠卡
+
+### 通用交付物
+
+每个 Session 的正式交付物都包含:
+
+- Session Card。
+- Lesson Video。
+- 临别赠卡。
+
+Before We Meet 是每个 Session 通用的预约前信息收集与准备环节，目前状态为完成。
 
 ### Session Card
 
@@ -96,11 +107,18 @@ Session 01:
 你拥有重新开始的力量。
 ```
 
+### 临别赠卡
+
+临别赠卡是每个 Session 离开前交给客户的正式交付物。
+
+Session 01《重新开始》的临别赠卡已设计完成。
+
 ## 候选物料
 
 | 状态 | 产品 | 用途 | 关联 |
 | --- | --- | --- | --- |
-| ☑ | Session Card | 单次体验交付物，正面已定稿，背面待完成 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
+| ☑ | Session Card | 单次体验交付物，正面与背面均已完成 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
+| ☑ | 临别赠卡 | 每个 Session 离开前交给客户的正式交付物；Session 01 已设计完成 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | Emotion Card | Session 结束时带走的情绪卡，记录并保留核心情绪 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | Journey Photo | 单次体验纪念，拍摄标准待完成 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | Lesson Video | 完整标准示范视频，作为电子曲谱 / 记忆辅助 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
@@ -158,6 +176,7 @@ Restart
 每位体验《重新开始》的客人，可获得:
 
 - Session Card。
+- 临别赠卡。
 - Journey Photo。
 - 完整 Lesson Video。
 

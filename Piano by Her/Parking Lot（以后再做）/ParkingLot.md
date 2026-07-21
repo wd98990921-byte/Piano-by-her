@@ -130,6 +130,17 @@ Before We Meet 阶段提前发送歌曲。
 得失从缘，心无增减。
 ```
 
+#### 当前已确认进度
+
+| 项目 | 状态 |
+| --- | --- |
+| 曲目 Sometimes Someone | ☑ 完成 |
+| Teacher Score | ☑ 完成 |
+| Session Card | ☑ 完成 |
+| Lesson Video | ☑ 完成 |
+| Before We Meet | ☑ 通用环节，已完成 |
+| 临别赠卡 | ☐ 待完成 |
+
 #### Session Card 已确认
 
 第一题:

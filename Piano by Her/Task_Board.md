@@ -13,6 +13,8 @@
 | ☑ | 项目瘦身为 Brand / Session / Space / Product / Task 五个日常模块 | Project | [README](./README.md), [Project Rules](./Project_Rules.md) |
 | ☑ | 简化 Session Framework 为 User Journey / Experience Detail / Products | Session Framework | [Framework](./Session/Framework/Framework.md) |
 | ☑ | 同步 Session 01《重新开始》正式版本: Restart / Lost in Island / Lesson Video / 教学模式 | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
+| ☑ | 同步 Session 01 Session Card 背面与临别赠卡完成状态 | Session 01 / Products | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md), [Products](./Session/Products/Products.md) |
+| ☑ | 记录 Session 02《放下》曲目、Teacher Score、Session Card、Lesson Video 完成状态 | Parking Lot / Session 02 | [Parking Lot](./Parking%20Lot（以后再做）/ParkingLot.md) |
 | ☑ | 明确 Session 01《重新开始》的用户对象与核心承诺 | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ◐ | 明确 Session 01 的 Why / Who / Before | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | 定义 Session 01 的核心 Transformation | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
@@ -21,7 +23,7 @@
 | ☑ | 定义当前 Medium（钢琴）在 Journey 中的最小体验环节 | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☐ | 补齐 Session 01 日常开发视图中的 Experience Detail | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ◐ | 确认 Session 01 真实测试必须制作的 Products 清单 | Products | [Products](./Session/Products/Products.md) |
-| ☐ | 完成 Session Card 背面内容 | Product | [Products](./Session/Products/Products.md) |
+| ☑ | 完成 Session Card 背面内容 | Product | [Products](./Session/Products/Products.md) |
 | ☐ | 定义 Journey Photo 拍摄标准 | Product | [Products](./Session/Products/Products.md) |
 | ☐ | 定义 Landing Room 具体体验 | Space / Landing Room | [LandingRoom](./Space/Landing%20Room/LandingRoom.md) |
 | ☐ | 定义 Journey Film 拍摄与交付标准 | Product | [Products](./Session/Products/Products.md) |
