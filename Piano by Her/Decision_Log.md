@@ -367,3 +367,43 @@ How will we know later whether this decision was right?
 - Reasoning: 根据新生命周期规则，已经开始概念开发的 Session 不属于 Parking Lot；但目前只确认名称和状态，不能扩展未确认内容。
 - Future Validation: 只有创始人明确提供更多内容，才继续补充 Session 03 的体验组件。
 - 影响模块: Session Framework, README, Project Rules, Project Index, Task Board, Version Log
+
+### Decision: 不新增 Founder Operating System 文件夹，改为定义现有核心文件职责
+
+- Decision: 不新增 `Founder Operating System/` 文件夹；当前已有文件组合即作为 Founder Operating System，包括 Brand Philosophy、Project Rules、Decision Log、Project Index、Task Board、AI Constitution。
+- Context: 当前工作台已经具备 Founder Operating System 的核心组成。继续新增一级文件夹会增加信息层级，让 AI 读取上下文更容易混乱。
+- Options Considered: 新增 Founder Operating System 文件夹；维持现状不加说明；保留现有结构并定义文件职责与 AI 读取规则。
+- Final Choice: 保留现有结构，不新增文件夹；通过 Project Rules、Project Index、AI Constitution 明确文件职责和读取优先级。
+- Reasoning: 这能解决信息重复、职责混乱、AI 读取上下文错误的问题，同时避免大规模移动文件或创建复杂系统。
+- Future Validation: 后续如果 AI 输出状态判断时仍混淆规则、历史与当前状态，需要优先检查是否遵守 Context Loading Rule。
+- Current Rule Override:
+  - 旧规则: 可以考虑新增 Founder Operating System 作为更高层工作台。
+  - 当前规则: 不新增 Founder Operating System 文件夹，现有核心文件组合即作为 Founder Operating System。
+  - 原因: 当前结构已经足够，新增层级会增加复杂度。
+- 影响模块: Project Rules, Project Index, AI Constitution, Decision Log, Version Log
+
+### Decision: 被新决策替代的旧规则必须标记 Current Rule Override
+
+- Decision: Decision Log 保留历史，但所有被新决策替代的旧规则，需要用 Current Rule Override 标记旧规则、当前规则和原因。
+- Context: Decision Log 中保留了早期 Session 01 MVP、Session 02 Parking Lot 等历史逻辑。AI 如果只搜索关键词，可能误把旧记录当作当前规则。
+- Options Considered: 删除旧历史；重写全部 Decision Log；保留历史并新增 Current Rule Override 标记。
+- Final Choice: 保留历史，不删除；新增 Current Rule Override 机制。
+- Reasoning: 既保留项目演进证据，又防止 AI 恢复已经废弃的规则。
+- Future Validation: AI 读取 Decision Log 时必须优先读取最新决策，并检查 Current Rule Override。
+- Current Rule Override:
+  - 旧规则: 旧历史记录可以直接作为当前判断依据。
+  - 当前规则: 旧历史记录必须检查是否被最新 Decision Log 覆盖。
+  - 原因: 项目规则会演进，旧记录是历史证据，不一定是当前规则。
+- 影响模块: Decision Log, AI Constitution, Project Rules
+
+### Current Rule Override: Session 优先级规则
+
+- 旧规则: Session 01 优先作为 MVP，Session 02 先放入 Parking Lot，等 Session 01 验证后再开发。
+- 当前规则: 所有 Session 地位相同；Session 01、Session 02、Session 03 等只是不同主题产品，不代表开发顺序、重要程度或上线优先级。
+- 原因: Session 是产品库，不是单一产品。开店后，所有已经完成开发的 Session 会同时作为客户可选择的体验主题上线。
+
+### Current Rule Override: Parking Lot 规则
+
+- 旧规则: 不属于 Session 01 MVP 的内容进入 Parking Lot。
+- 当前规则: Parking Lot 只用于有想法但尚未开始开发的 Session、尚未确定方向的主题、尚未开始开发的 Medium / 产品 / 空间 / 长期方向。
+- 原因: 已完成概念设计或已进入 Concept Development 的 Session 不应继续停留在 Parking Lot。

@@ -111,7 +111,37 @@ Evidence 至少来自以下一种来源:
 - 需要验证。
 - 待确认。
 
-## 7. Complexity Control
+## 7. Context Loading Rule
+
+AI Agent 生成 Daily Brief、项目建议、状态判断时，必须按以下优先级读取上下文:
+
+1. Brand_Philosophy.md: 确定长期方向。
+2. Project_Rules.md: 确定工作规则。
+3. Decision_Log.md: 读取最新决策，并检查 Current Rule Override。
+4. Project_Index.md: 读取当前项目状态。
+5. 具体项目文件: 例如 Session、Space、AI Agent。
+
+禁止随机读取所有文件后自行判断。
+
+如果不同文件出现冲突，优先级为:
+
+最新 Decision_Log
+
+>
+
+Project_Rules
+
+>
+
+Brand_Philosophy
+
+>
+
+旧历史记录
+
+AI Agent 不允许根据旧记录恢复已经废弃的规则。
+
+## 8. Complexity Control
 
 AI Agent 不允许主动扩展系统复杂度。
 
@@ -126,7 +156,7 @@ AI Agent 不允许主动扩展系统复杂度。
 
 先验证需求，再建立结构。
 
-## 8. Fact / Hypothesis / Recommendation
+## 9. Fact / Hypothesis / Recommendation
 
 AI Agent 输出建议时必须区分:
 
@@ -136,7 +166,7 @@ AI Agent 输出建议时必须区分:
 
 三者不能混淆。
 
-## 9. Creator Review
+## 10. Creator Review
 
 所有重要修改必须经过 Creator Review（创始人审核）。
 
@@ -149,7 +179,7 @@ AI Agent 输出建议时必须区分:
 
 AI Agent 不能替代创始人做最终判断。
 
-## 10. AI Agent Goal
+## 11. AI Agent Goal
 
 AI Agent 的目标不是替代创始人思考。
 

@@ -6,6 +6,72 @@
 
 当前阶段最大的风险是复杂化。
 
+## Workspace Architecture Governance
+
+当前不新增 `Founder Operating System/` 文件夹。
+
+经过评估，当前 Piano by Her 工作台已经具备 Founder Operating System 的核心组成。以下文件组合即作为 Founder Operating System:
+
+- [Brand Philosophy](./Brand_Philosophy.md)
+- [Project Rules](./Project_Rules.md)
+- [Decision Log](./Decision_Log.md)
+- [Project Index](./Project_Index.md)
+- [Task Board](./Task_Board.md)
+- [AI Constitution](./AI_Constitution.md)
+
+不新增新的信息层级，避免让项目变厚、变复杂。
+
+### 核心文件职责
+
+| 文件 | 唯一职责 | 禁止承担 |
+| --- | --- | --- |
+| Brand_Philosophy.md | 记录为什么做 Piano by Her，包括品牌愿景、长期目标、用户价值、核心理念 | 当前任务、项目进度、日计划 |
+| Project_Index.md | 当前项目总览，包括项目列表、项目状态、项目阶段 | 详细任务 |
+| Decision_Log.md | 记录为什么做这个决定，并保留历史决策 | 替代 Version Log 或 Task Board |
+| Project_Rules.md | 所有项目通用规则，包括轻量原则、归档流程、治理规则、Zero Trust Governance | 具体项目内容 |
+| AI_Constitution.md | AI Agent 工作规则，包括 AI 职责、Evidence、Fact / Hypothesis / Recommendation、Creator Review | 品牌哲学、项目进度 |
+| AI_Agent_Progress.md | AI Agent 当前开发进度，包括已完成、下一步、阻塞 | 长期规则 |
+| Task_Board.md | 人类可读的当前行动板，只展示 Current Focus、Next Action、Waiting | 完整任务管理数据库 |
+
+### Session 文件夹职责
+
+| 文件夹 | 职责 | 禁止承担 |
+| --- | --- | --- |
+| Session/Framework/ | 所有 Session 通用规则，包括 Session 生命周期、通用流程、通用组件 | 具体 Session 内容 |
+| Session/Products/ | 具体 Session 产品，包括核心主题、Session Card、歌曲、Teacher Score、Lesson Video、临别赠卡、体验组件 | 通用治理规则 |
+
+当前如果发现旧内容已经散落在多个位置，不自动删除、不自动移动。先标记为架构治理建议，等待 Creator Review。
+
+## AI Agent Context Loading Rule
+
+任何 AI Agent 生成 Daily Brief、项目建议、状态判断时，必须按以下优先级读取上下文:
+
+1. [Brand Philosophy](./Brand_Philosophy.md): 确定长期方向。
+2. [Project Rules](./Project_Rules.md): 确定工作规则。
+3. [Decision Log](./Decision_Log.md): 读取最新决策；旧决策必须检查是否存在 Current Rule Override。
+4. [Project Index](./Project_Index.md): 读取当前项目状态。
+5. 具体项目文件: 例如 Session、Space、AI Agent 相关文件。
+
+禁止随机读取所有文件后自行判断。
+
+如果不同文件出现冲突，判断优先级为:
+
+最新 Decision Log
+
+>
+
+Project Rules
+
+>
+
+Brand Philosophy
+
+>
+
+旧历史记录
+
+AI 不允许根据旧记录恢复已经废弃的规则。
+
 ## 核心定位
 
 最高层品牌依据是 [Brand Philosophy](./Brand_Philosophy.md)。任何品牌定位、产品哲学、体验理念、长期方向都必须与 Brand Philosophy 保持一致。

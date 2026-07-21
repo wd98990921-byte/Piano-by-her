@@ -1,5 +1,45 @@
 # Project Index
 
+## 文档定位
+
+Project Index 只负责当前项目总览。
+
+包含:
+
+- 当前项目列表。
+- 项目状态。
+- 项目阶段。
+- 主要文件位置。
+
+禁止:
+
+- 详细任务。
+- 长期规则。
+- 品牌哲学正文。
+
+## Founder Operating System
+
+当前不新增 `Founder Operating System/` 文件夹。
+
+以下现有文件组合即作为 Piano by Her Founder Operating System:
+
+| 文件 | 职责 |
+| --- | --- |
+| [Brand Philosophy](./Brand_Philosophy.md) | 品牌为什么存在、长期目标、用户价值、核心理念 |
+| [Project Rules](./Project_Rules.md) | 项目通用规则、架构治理、AI 读取规则 |
+| [Decision Log](./Decision_Log.md) | 重要决策原因、替代方案、Current Rule Override |
+| [Project Index](./Project_Index.md) | 当前项目总览 |
+| [Task Board](./Task_Board.md) | 人类可读的当前行动板 |
+| [AI Constitution](./AI_Constitution.md) | AI Agent 工作规则与治理 |
+
+## 当前项目列表
+
+| Project | Status | 说明 |
+| --- | --- | --- |
+| Session System | Developing | Session 01、Session 02 为 Completed；Session 03 为 Concept Development |
+| AI Agent System | Building | AI Constitution 与 AI Agent Progress 已存在，Notion API 原型已记录 |
+| Studio | Waiting | Space 文件已建立，等待线下落地细化 |
+
 ## Session 生命周期
 
 所有 Session 使用同一套生命周期:
@@ -36,7 +76,9 @@ Idea → Concept Development → Completed → Testing → Iteration
 ### Project
 
 - [Brand Philosophy](./Brand_Philosophy.md): 最高层品牌哲学，只记录最核心、最长期、最不能丢失的东西。
-- [Project Rules](./Project_Rules.md): 项目开发规则、自动归档、瘦身原则。
+- [Project Rules](./Project_Rules.md): 项目开发规则、架构治理、自动归档、瘦身原则。
+- [AI Constitution](./AI_Constitution.md): AI Agent 工作规则、Evidence 要求、Creator Review。
+- [AI Agent Progress](./AI_Agent_Progress.md): AI Agent 当前开发进度。
 
 ### 工作流
 
@@ -52,9 +94,9 @@ Idea → Concept Development → Completed → Testing → Iteration
 
 ### Session
 
-- [Framework](./Session/Framework/Framework.md): Session 日常开发方式: User Journey / Experience Detail / Products。
+- [Framework](./Session/Framework/Framework.md): Session 通用规则、生命周期、通用流程、通用组件。
 - [Session 01 - 重新开始](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md): Completed。
-- [Products](./Session/Products/Products.md): Session 相关实物或数字产品。
+- [Products](./Session/Products/Products.md): 具体 Session 产品与体验组件。
 - [Media](./Session/Media/Media.md): 拍摄、视觉、传播素材。
 - [Testing](./Session/Testing/Testing.md): 真实用户测试计划、记录、反馈。
 
