@@ -139,7 +139,7 @@ Before We Meet 阶段提前发送歌曲。
 | Session Card | ☑ 完成 |
 | Lesson Video | ☑ 完成 |
 | Before We Meet | ☑ 通用环节，已完成 |
-| 临别赠卡 | ☐ 待完成 |
+| 临别赠卡 | ☑ 完成 |
 
 #### Session Card 已确认
 

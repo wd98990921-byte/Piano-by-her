@@ -14,7 +14,7 @@
 | ☑ | 简化 Session Framework 为 User Journey / Experience Detail / Products | Session Framework | [Framework](./Session/Framework/Framework.md) |
 | ☑ | 同步 Session 01《重新开始》正式版本: Restart / Lost in Island / Lesson Video / 教学模式 | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | 同步 Session 01 Session Card 背面与临别赠卡完成状态 | Session 01 / Products | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md), [Products](./Session/Products/Products.md) |
-| ☑ | 记录 Session 02《放下》曲目、Teacher Score、Session Card、Lesson Video 完成状态 | Parking Lot / Session 02 | [Parking Lot](./Parking%20Lot（以后再做）/ParkingLot.md) |
+| ☑ | 记录 Session 02《放下》曲目、Teacher Score、Session Card、Lesson Video、临别赠卡完成状态 | Parking Lot / Session 02 | [Parking Lot](./Parking%20Lot（以后再做）/ParkingLot.md) |
 | ☑ | 明确 Session 01《重新开始》的用户对象与核心承诺 | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ◐ | 明确 Session 01 的 Why / Who / Before | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | 定义 Session 01 的核心 Transformation | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |

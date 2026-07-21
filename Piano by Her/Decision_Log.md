@@ -340,7 +340,7 @@ How will we know later whether this decision was right?
 
 ### Decision: Session 02《放下》继续停留在 Parking Lot，但记录已确认制作进度
 
-- Decision: Session 02｜LEAVE IT THERE｜放下继续不建立完整 Session 文件；仅在 Parking Lot 记录曲目 Sometimes Someone、Teacher Score、Session Card、Lesson Video 已完成，临别赠卡待完成。
+- Decision: Session 02｜LEAVE IT THERE｜放下继续不建立完整 Session 文件；仅在 Parking Lot 记录曲目 Sometimes Someone、Teacher Score、Session Card、Lesson Video、临别赠卡已完成。
 - Context: Session 02 已出现多个确认成果，但当前 MVP 仍是 Session 01《重新开始》，不能让 Session 02 打断当前测试节奏。
 - Options Considered: 立即创建 Session 02 完整文档；完全不记录 Session 02 新进度；在 Parking Lot 中记录已确认事实但不启动正式开发。
 - Final Choice: 在 Parking Lot 中记录 Session 02 已确认制作进度，维持 Concept Development 状态。
