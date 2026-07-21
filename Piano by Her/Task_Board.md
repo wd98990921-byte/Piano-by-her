@@ -1,6 +1,18 @@
 # Task Board
 
-## 当前 Sprint: Session 01 真实用户测试
+## Session 状态记录
+
+当前不自动创建 Session 优化任务。
+
+已完成 Concept Version 的 Session 等待开店后统一进入 Testing。
+
+| 状态 | Session | 生命周期状态 | 说明 |
+| --- | --- | --- | --- |
+| ☑ | Session 01｜RESTART｜重新开始 | Completed | Concept Version 已完成，等待开店后真实用户测试 |
+| ☑ | Session 02｜LEAVE IT THERE｜放下 | Completed | Concept Version 已完成，等待开店后真实用户测试 |
+| ◐ | Session 03｜BECOMING｜成为 | Concept Development | 已确定主题名称，进入概念到体验组件设计阶段 |
+
+## 历史任务记录
 
 | 状态 | 任务 | 所属模块 | 关联文档 |
 | --- | --- | --- | --- |
@@ -14,7 +26,7 @@
 | ☑ | 简化 Session Framework 为 User Journey / Experience Detail / Products | Session Framework | [Framework](./Session/Framework/Framework.md) |
 | ☑ | 同步 Session 01《重新开始》正式版本: Restart / Lost in Island / Lesson Video / 教学模式 | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | 同步 Session 01 Session Card 背面与临别赠卡完成状态 | Session 01 / Products | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md), [Products](./Session/Products/Products.md) |
-| ☑ | 记录 Session 02《放下》曲目、Teacher Score、Session Card、Lesson Video、临别赠卡完成状态 | Parking Lot / Session 02 | [Parking Lot](./Parking%20Lot（以后再做）/ParkingLot.md) |
+| ☑ | 记录 Session 02《放下》曲目、Teacher Score、Session Card、Lesson Video、临别赠卡完成状态 | Session 02 | [Framework](./Session/Framework/Framework.md) |
 | ☑ | 明确 Session 01《重新开始》的用户对象与核心承诺 | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ◐ | 明确 Session 01 的 Why / Who / Before | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | 定义 Session 01 的核心 Transformation | Session 01 | [Session01_BeginAgain](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
@@ -38,4 +50,5 @@
 
 - 新想法进入开发时，新增或更新任务。
 - 已完成内容如被后续修改影响，状态可从 ☑ 回到 ◐。
-- 不属于当前 MVP 的任务不进入当前 Sprint，先放入 Parking Lot。
+- 尚未开始开发或尚未确定方向的事项先放入 Parking Lot。
+- 已完成 Concept Version 的 Session 不自动创建优化任务。

@@ -16,7 +16,9 @@ Piano by Her is a Session-centered life experience brand.
 
 It uses a carefully designed Session to help women temporarily put down outside identities, return to themselves, and leave with a real inner shift.
 
-The current MVP is Session 01《重新开始》.
+Current completed Concept Version Sessions include Session 01《重新开始》and Session 02《放下》.
+
+Session numbers are theme identifiers, not priority markers.
 
 The current Medium is piano.
 
@@ -44,7 +46,7 @@ Every product or experience decision must prioritize:
 2. Transformation: What changes inside her?
 3. Experience: What does she actually go through?
 4. Simplicity: Can this be done with less?
-5. MVP: Does this help Session 01 become testable?
+5. Lifecycle: Which Session lifecycle state does this belong to?
 
 Products, space, media, and materials are only support systems.
 
@@ -55,7 +57,7 @@ Do not let support systems become the center.
 Before developing any new idea, ask:
 
 1. Does this directly improve the user's Emotion, Transformation, or Experience?
-2. Is this necessary for the current MVP?
+2. Is this necessary for the current lifecycle stage?
 3. If we remove it, can the Session still work?
 4. Is there a simpler way to solve the same problem?
 5. Is another existing product or step already doing this job?
@@ -78,7 +80,7 @@ The AI Agent's job is to help Piano by Her become:
 - easier to test
 - harder to dilute
 
-When in doubt, protect the MVP.
+When in doubt, protect the confirmed Session lifecycle.
 
 When in doubt, protect the user's inner experience.
 

@@ -2,36 +2,43 @@
 
 ## 用途
 
-保存所有未来想法，避免打断当前 MVP 开发。
+保存所有尚未开始开发或尚未确定方向的未来想法。
+
+Parking Lot 只用于:
+
+- 有想法但尚未开始开发的 Session。
+- 尚未确定方向的主题。
+- 尚未开始开发的 Medium、产品、空间或长期方向。
+
+已经完成概念设计的 Session 不继续放在 Parking Lot。
 
 ## 当前不开发
 
 | 想法 | 原因 | 状态 |
 | --- | --- | --- |
-| 第二家店 | 当前目标是第一家店的 Session 01 测试 | 停放 |
-| Session 02｜LEAVE IT THERE｜放下 | Session 01 尚未验证；仅进入概念发展，不建立完整 Session 文件 | Concept Development |
-| 缝纫 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
-| 插花 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
-| 美甲 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
-| 瑜伽 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
-| 冥想 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
-| 茶 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
-| 写作 Medium | 当前 MVP 只使用钢琴作为 Medium | 停放 |
-| 母品牌“安住” | 品牌层未来讨论方向；当前不影响 Piano by Her 与 Session 01 研发 | 停放 |
-| Collection | 不属于当前真实用户测试必需内容 | 停放 |
+| 第二家店 | 当前尚未开始开发 | 停放 |
+| 缝纫 Medium | 尚未开始开发 | 停放 |
+| 插花 Medium | 尚未开始开发 | 停放 |
+| 美甲 Medium | 尚未开始开发 | 停放 |
+| 瑜伽 Medium | 尚未开始开发 | 停放 |
+| 冥想 Medium | 尚未开始开发 | 停放 |
+| 茶 Medium | 尚未开始开发 | 停放 |
+| 写作 Medium | 尚未开始开发 | 停放 |
+| 母品牌“安住” | 品牌层未来讨论方向，尚未进入正式品牌架构开发 | 停放 |
+| Collection | 尚未开始开发 | 停放 |
 | Annual Book | 需要长期内容沉淀后再判断 | 停放 |
 | 联名 | 当前还没有被验证的核心 Session 与 Transformation | 停放 |
-| 文创升级 | 不属于 Session 01 MVP 必需项 | 停放 |
+| 文创升级 | 尚未开始开发 | 停放 |
 | 会员升级 | 需要先验证单次体验价值 | 停放 |
 | Piano Fingering Guide（钢琴指法指引牌） | 可能降低成人体验者第一次接触钢琴的学习门槛，但呈现方式、材质、尺寸和是否长期放置都待验证 | 待设计 / 待验证 |
 | Session Song Reveal（歌曲呈现时机） | 歌曲如何出现会影响客户与 Session 的音乐连接，但需继续比较 Before We Meet 提前发送与 Session 内播放两种方案 | 待讨论 |
 
 ## 处理规则
 
-- 如果新想法不直接支持 Session 01 真实测试，先记录在这里。
-- 如果新 Medium 不属于 Session 01 钢琴 MVP，先记录在这里。
+- 如果新 Session 只有想法但尚未开始开发，先记录在这里。
+- 如果新 Medium 尚未开始开发，先记录在这里。
 - 进入 Parking Lot 不代表否定，只代表不是当前阶段。
-- 每次 Session 01 测试复盘后，再判断是否有内容可以进入开发。
+- 已完成 Concept Version 的 Session 不继续放在 Parking Lot。
 - 如果新产品、流程、物料、功能或空间配置不能通过 Challenger 五问，先记录在这里。
 
 ## Product / Experience Backlog
@@ -101,71 +108,6 @@ Before We Meet 阶段提前发送歌曲。
 - 不改变当前 Session 01 正式流程。
 - 不立即修改 Before We Meet 或 Session Card。
 - 待真实测试或下一轮流程讨论时再决定。
-
-## Session Backlog
-
-### Session 02｜LEAVE IT THERE｜放下
-
-状态: Concept Development
-
-当前不建立完整 Session 文件。
-
-核心:
-
-不是针对某一种事件。客户可以将自己的故事带入。
-
-主题:
-
-放下那些不再需要继续携带的东西。
-
-核心句:
-
-```text
-有些东西，可以留在那里了。
-```
-
-背后精神:
-
-```text
-得失从缘，心无增减。
-```
-
-#### 当前已确认进度
-
-| 项目 | 状态 |
-| --- | --- |
-| 曲目 Sometimes Someone | ☑ 完成 |
-| Teacher Score | ☑ 完成 |
-| Session Card | ☑ 完成 |
-| Lesson Video | ☑ 完成 |
-| Before We Meet | ☑ 通用环节，已完成 |
-| 临别赠卡 | ☑ 完成 |
-
-#### Session Card 已确认
-
-第一题:
-
-```text
-这一小时，你希望自己放下什么？
-```
-
-选项:
-
-- 一个过去的阶段。
-- 一个曾经的自己。
-- 一个不再需要的期待。
-- 一种情绪。
-- 一个习惯。
-- 一件未完成的事。
-- 一份执念。
-- 其他。
-
-#### 当前边界
-
-- 不进入当前 MVP。
-- 不建立完整 Session 文件。
-- 不影响 Session 01《重新开始》的研发节奏。
-- 等 Session 01 达到稳定版本后，再决定是否进入正式 Session 开发。
 
 ## Brand Backlog
 

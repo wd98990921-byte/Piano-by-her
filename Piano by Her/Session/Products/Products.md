@@ -4,22 +4,22 @@
 
 记录 Session 相关的实物、纸本、数字产品。
 
-## 当前 MVP 范围
+## 当前范围
 
-只准备支持 Session 01 真实测试的最小物料。
+记录已完成 Concept Version 的 Session 所需最小物料。
 
 产品不是起点。
 
 ## Product Rules
 
-任何产品必须先服务 Session 的 User Journey 和 Experience Detail。只有确认它是 Session 01 MVP 必须项，才进入开发。
+任何产品必须先服务 Session 的 User Journey 和 Experience Detail。只有确认它属于当前生命周期阶段，才进入开发。
 
 日常判断:
 
 - 这个产品服务哪一步体验？
 - 没有它，用户体验是否仍然成立？
 - 有没有更简单的替代方式？
-- 它是否是第一轮真实测试必须制作的？
+- 它是否属于当前生命周期阶段必须制作的？
 
 ## 新增产品 Challenger 五问
 
@@ -124,7 +124,7 @@ Session 01《重新开始》的临别赠卡已设计完成。
 | ☑ | Lesson Video | 完整标准示范视频，作为电子曲谱 / 记忆辅助 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☑ | Teacher Score | 老师内部教学使用，客人不看五线谱 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 | ☐ | Journey Film | 完整完成 Session 后的专属成品弹奏视频 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
-| ☐ | Passport | 候选 Memory 载体，待验证是否是 MVP 必须项 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
+| ☐ | Passport | 候选 Memory 载体，待验证是否属于当前生命周期阶段 | [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md) |
 
 ## Lesson Video 规则
 

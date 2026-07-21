@@ -347,3 +347,23 @@ How will we know later whether this decision was right?
 - Reasoning: 这样既不丢失已经完成的资产，也不把 Session 02 提前推入当前 MVP。
 - Future Validation: Session 01 达到稳定版本后，再判断 Session 02 是否进入正式 Session 开发。
 - 影响模块: Parking Lot, Products, Task Board
+
+### Decision: Session 生命周期统一为 Idea → Concept Development → Completed → Testing → Iteration
+
+- Decision: 建立统一 Session 生命周期；所有 Session 地位相同，Session 编号不代表开发顺序、重要程度或上线优先级；Session 01｜RESTART｜重新开始与 Session 02｜LEAVE IT THERE｜放下当前状态均为 Completed。
+- Context: 旧规则将 Session 01 视为当前 MVP，并把 Session 02 放在 Parking Lot，容易造成不同 Session 之间的优先级误解。
+- Options Considered: 保留 Session 01 优先验证逻辑；为 Session 02 创建完整独立文件；建立统一生命周期并只更新状态规则。
+- Final Choice: 建立统一生命周期，删除“先验证 Session 01，再开发 Session 02”的项目管理逻辑；已完成 Concept Version 的 Session 不继续放在 Parking Lot。
+- Reasoning: Session 01、Session 02、Session 03 等是不同主题产品，不是优先级排序。开店后，所有已经完成开发的 Session 会同时作为客户可选择的体验主题上线。
+- Future Validation: 只有开店后的真实用户反馈、数据结果，或创始人明确要求，才进入 Testing 或 Iteration。
+- 影响模块: Session Framework, Project Rules, README, Project Index, AI Constitution, Products, Testing, Task Board, Parking Lot, Session 01, Version Log
+
+### Decision: Session 03｜BECOMING｜成为进入 Concept Development
+
+- Decision: Session 03 正式定名为 BECOMING｜成为，状态为 Concept Development。
+- Context: 创始人明确输入 Session 03 名称与生命周期状态，需要纳入统一 Session 生命周期管理。
+- Options Considered: 放入 Parking Lot；创建完整 Session 03 文件；只在生命周期状态中记录。
+- Final Choice: 不放入 Parking Lot，不创建完整 Session 文件；只在 Session 生命周期与当前状态中记录为 Concept Development。
+- Reasoning: 根据新生命周期规则，已经开始概念开发的 Session 不属于 Parking Lot；但目前只确认名称和状态，不能扩展未确认内容。
+- Future Validation: 只有创始人明确提供更多内容，才继续补充 Session 03 的体验组件。
+- 影响模块: Session Framework, README, Project Rules, Project Index, Task Board, Version Log

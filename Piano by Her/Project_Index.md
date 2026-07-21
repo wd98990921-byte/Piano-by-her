@@ -1,8 +1,23 @@
 # Project Index
 
-## MVP 北极星
+## Session 生命周期
 
-让真实用户完整体验 Session 01《重新开始》，验证她是否发生可感知的 Transformation，并收集足够反馈判断它是否值得继续迭代。
+所有 Session 使用同一套生命周期:
+
+Idea → Concept Development → Completed → Testing → Iteration
+
+所有 Session 地位相同。Session 编号只代表主题产品，不代表开发顺序、重要程度或上线优先级。
+
+当前已完成 Concept Version:
+
+- Session 01｜RESTART｜重新开始。
+- Session 02｜LEAVE IT THERE｜放下。
+
+当前 Concept Development:
+
+- Session 03｜BECOMING｜成为。
+
+开店后，所有已经完成开发的 Session 会同时作为客户可选择的体验主题上线，并统一进入真实用户测试。
 
 ## 日常开发模块
 
@@ -14,7 +29,7 @@
 
 项目日常开发不再从抽象理论开始，而是先看到完整体验画面。
 
-当前 MVP 的 Medium 是钢琴。长期定位允许多媒介，但当前不开发其他 Medium。
+当前已完成 Concept Version 的 Medium 是钢琴。长期定位允许多媒介，但其他 Medium 尚未开始开发。
 
 ## 模块结构
 
@@ -31,14 +46,14 @@
 - GitHub 仓库 `wd98990921-byte/Piano-by-her` 是唯一正式版本（Single Source of Truth）。
 - Notion 是项目管理中心，用于日常待办、Roadmap、Meeting Notes、灵感、临时资料和运营管理。
 - 影响品牌定位、产品哲学、体验理念、长期方向: 同步 Brand Philosophy。
-- 不属于当前 MVP: 进入 Parking Lot。
+- 尚未开始开发或尚未确定方向: 进入 Parking Lot。
 - 重要决策和原因: 进入 Decision Log。
 - 版本变化: 进入 Version Log。
 
 ### Session
 
 - [Framework](./Session/Framework/Framework.md): Session 日常开发方式: User Journey / Experience Detail / Products。
-- [Session 01 - 重新开始](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md): 当前唯一核心 Session。
+- [Session 01 - 重新开始](./Session/Session%2001%20-%20重新开始/Session01_BeginAgain.md): Completed。
 - [Products](./Session/Products/Products.md): Session 相关实物或数字产品。
 - [Media](./Session/Media/Media.md): 拍摄、视觉、传播素材。
 - [Testing](./Session/Testing/Testing.md): 真实用户测试计划、记录、反馈。
@@ -54,11 +69,12 @@
 
 ### Parking Lot
 
-- [以后再做](./Parking%20Lot（以后再做）/ParkingLot.md): 不属于当前 MVP 的未来想法。
+- [以后再做](./Parking%20Lot（以后再做）/ParkingLot.md): 尚未开始开发或尚未确定方向的未来想法。
 
-## 当前优先级
+## 当前状态
 
-1. 画出 Session 01 的完整 User Journey。
-2. 补齐每一步 Experience Detail。
-3. 列出真实测试必须制作的 Products。
-4. 制定真实用户测试方案。
+- Session 01｜RESTART｜重新开始: Completed。
+- Session 02｜LEAVE IT THERE｜放下: Completed。
+- Session 03｜BECOMING｜成为: Concept Development。
+- Testing: 等待开店后根据真实用户反馈进入。
+- Iteration: 等待真实反馈或创始人明确要求。

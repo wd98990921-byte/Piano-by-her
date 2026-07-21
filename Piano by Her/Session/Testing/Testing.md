@@ -2,13 +2,18 @@
 
 ## 用途
 
-管理 Session 01 真实用户测试。
+管理开店后已完成 Concept Version 的 Session 真实用户测试。
 
 ## 测试目标
 
-验证 Session 01《重新开始》是否可以被真实用户理解、完成，并产生可感知的 Transformation。
+验证已完成 Concept Version 的 Session 是否可以被真实用户理解、完成，并产生可感知的 Transformation。
 
 测试不以“学会钢琴”为成功标准，而以体验指标判断是否值得继续迭代。
+
+当前等待开店后进入 Testing 的 Session:
+
+- Session 01｜RESTART｜重新开始。
+- Session 02｜LEAVE IT THERE｜放下。
 
 ## 待制定
 
@@ -42,6 +47,7 @@
 ## 关联文档
 
 - [Session 01](../Session%2001%20-%20重新开始/Session01_BeginAgain.md)
+- [Session Framework](../Framework/Framework.md)
 - [Journey Room](../../Space/Journey%20Room/JourneyRoom.md)
 - [Products](../Products/Products.md)
 - [Media](../Media/Media.md)
