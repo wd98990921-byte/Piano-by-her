@@ -29,7 +29,7 @@ Parking Lot 只用于:
 | Annual Book | 需要长期内容沉淀后再判断 | 停放 |
 | 联名 | 当前还没有被验证的核心 Session 与 Transformation | 停放 |
 | 文创升级 | 尚未开始开发 | 停放 |
-| 会员升级 | 需要先验证单次体验价值 | 停放 |
+| Inner Circle｜高级会员体系 | 基础 Membership 已进入 Product Definition V1；高级会员体系需等待品牌成熟后再开发 | Future Feature |
 | Community Layer｜品牌共创参与层 | 探索客户以低成本参与品牌成长的方式；当前不进入 MVP，不影响 Session、Space、Product 开发节奏 | Parking Lot |
 | Piano Fingering Guide（钢琴指法指引牌） | 可能降低成人体验者第一次接触钢琴的学习门槛，但呈现方式、材质、尺寸和是否长期放置都待验证 | 待设计 / 待验证 |
 | Session Song Reveal（歌曲呈现时机） | 歌曲如何出现会影响客户与 Session 的音乐连接，但需继续比较 Before We Meet 提前发送与 Session 内播放两种方案 | 待讨论 |

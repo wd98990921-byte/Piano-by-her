@@ -417,3 +417,13 @@ How will we know later whether this decision was right?
 - Reasoning: Her Trace、Her Choice、Her Archive 都可能提高情感价值和复访理由，但会影响空间运营与品牌参与机制。当前没有运营稳定后的真实反馈，不应提前开发或新增系统。
 - Future Validation: 等待未来空间运营稳定后，基于真实客户反馈、复访行为和创始人明确要求重新评估。
 - 影响模块: Parking Lot
+
+### Decision: Piano by Her Membership 进入 Product Definition V1
+
+- Decision: 创建 Piano by Her Membership｜长期陪伴会员产品定义，状态为 Product Definition V1。
+- Context: 创始人明确输入会员体系的产品定义。它不是传统琴行会员、按课时购买或技能等级提升体系，而是 Lifestyle + Music Experience Membership。
+- Options Considered: 继续作为 Parking Lot 的“会员升级”；直接拆解运营任务和价格设计；创建 Membership 产品定义文档。
+- Final Choice: 创建 [Membership](./Product/Membership/Membership.md) 作为产品体系文档。
+- Reasoning: Membership 已从泛泛的“会员升级”变成清晰的产品定义，但当前仍不进入执行任务、不拆解运营任务、不进入开发排期。独立文档能保存产品定义，同时避免打乱 Session、Space、Product 当前节奏。
+- Future Validation: 等待空间确定和开业运营验证，根据真实客户反馈迭代。
+- 影响模块: Product, Project Index, Decision Log, Version Log

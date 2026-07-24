@@ -80,6 +80,10 @@ Idea → Concept Development → Completed → Testing → Iteration
 - [AI Constitution](./AI_Constitution.md): AI Agent 工作规则、Evidence 要求、Creator Review。
 - [AI Agent Progress](./AI_Agent_Progress.md): AI Agent 当前开发进度。
 
+### Product
+
+- [Membership](./Product/Membership/Membership.md): Piano by Her Membership 长期陪伴会员产品定义 V1。
+
 ### 工作流
 
 - 新内容先判断层级，再自动归档。
