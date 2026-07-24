@@ -42,6 +42,50 @@
 
 不影响当前 Space、Session、Product 开发节奏。
 
+## Storefront Reference｜店面外观参考
+
+类型: Visual Inspiration
+
+状态: Parking Lot / Visual Inspiration
+
+暂不开发。
+
+### 参考图片
+
+![Storefront Reference 店面外观参考](./Storefront_Reference.jpg)
+
+### 喜欢原因
+
+未来线下店铺外观参考。
+
+视觉特点:
+
+- 白色极简外立面。
+- 大面积玻璃窗。
+- 简洁品牌字体招牌。
+- 安静、干净、有生活方式品牌感。
+- 不像传统商业门店。
+
+### 希望传达
+
+进入 Piano by Her 前，客户已经感受到:
+
+```text
+安静、温柔、有审美、像一个可以停留的空间。
+```
+
+### 未来可能应用
+
+- 店铺外立面设计。
+- 门头设计。
+- 橱窗展示。
+
+### 当前原则
+
+仅记录为线下店布置参考。
+
+不影响当前 Space、Session、Product 开发节奏。
+
 ## Outdoor Sign Board｜门口立牌
 
 类型: Visual Inspiration

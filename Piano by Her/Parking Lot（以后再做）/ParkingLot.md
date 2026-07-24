@@ -36,6 +36,7 @@ Parking Lot 只用于:
 | Session Song Reveal（歌曲呈现时机） | 歌曲如何出现会影响客户与 Session 的音乐连接，但需继续比较 Before We Meet 提前发送与 Session 内播放两种方案 | 待讨论 |
 | House Rules 风格墙面 | 线下空间墙面文字元素参考，喜欢其手写感、留白、生活感和温度；当前只作为 Space Inspiration 保存 | Parking Lot / Visual Inspiration |
 | Outdoor Sign Board｜门口立牌 | 店铺入口独立立牌参考，喜欢其简单文字、强视觉识别、轻微幽默感和生活方式品牌气质；当前只作为 Space Inspiration 保存 | Parking Lot / Visual Inspiration |
+| Storefront Reference｜店面外观参考 | 线下店铺外观参考，喜欢其白色极简外立面、大面积玻璃窗、简洁招牌和安静生活方式品牌感；当前只作为 Space Inspiration 保存 | Parking Lot / Visual Inspiration |
 
 ## 处理规则
 
@@ -163,6 +164,7 @@ Session Collection 和 Membership 都包含持续体验 Session 的可能。
 
 - [House Rules 风格墙面](./Space%20Inspiration｜线下店布置参考/Space_Inspiration.md)
 - [Outdoor Sign Board｜门口立牌](./Space%20Inspiration｜线下店布置参考/Space_Inspiration.md)
+- [Storefront Reference｜店面外观参考](./Space%20Inspiration｜线下店布置参考/Space_Inspiration.md)
 
 状态: Parking Lot / Visual Inspiration
 

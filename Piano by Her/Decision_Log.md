@@ -457,3 +457,13 @@ How will we know later whether this decision was right?
 - Reasoning: 当前参考的是形式和氛围，未来文字仍需重新设计并符合 Piano by Her 品牌语言。提前进入执行会把视觉参考误变成正式门店方案。
 - Future Validation: 未来进入店铺入口 / 门口区域设计时，再结合实际位置、品牌语言和街区环境判断是否采用。
 - 影响模块: Parking Lot, Space
+
+### Decision: Storefront Reference｜店面外观参考进入 Space Inspiration
+
+- Decision: 将 Storefront Reference｜店面外观参考图和说明记录到 Parking Lot / Space Inspiration｜线下店布置参考，状态为 Visual Inspiration。
+- Context: 创始人希望保存未来线下店铺外观参考，偏好白色极简外立面、大面积玻璃窗、简洁品牌字体招牌、安静干净的生活方式品牌感。
+- Options Considered: 直接进入店铺外立面设计；创建门头或橱窗设计任务；仅作为 Space Inspiration 保存。
+- Final Choice: 仅作为 Space Inspiration 保存，不进入 Space 执行，不创建任务。
+- Reasoning: 该参考明确的是未来店面外观的审美方向，但当前尚未进入具体门店设计阶段。提前执行会增加空间开发复杂度。
+- Future Validation: 未来进入店铺外立面、门头设计或橱窗展示时，再结合实际铺位条件、品牌语言和用户进入前的情绪体验判断是否采用。
+- 影响模块: Parking Lot, Space
