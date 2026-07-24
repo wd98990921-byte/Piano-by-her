@@ -407,3 +407,13 @@ How will we know later whether this decision was right?
 - 旧规则: 不属于 Session 01 MVP 的内容进入 Parking Lot。
 - 当前规则: Parking Lot 只用于有想法但尚未开始开发的 Session、尚未确定方向的主题、尚未开始开发的 Medium / 产品 / 空间 / 长期方向。
 - 原因: 已完成概念设计或已进入 Concept Development 的 Session 不应继续停留在 Parking Lot。
+
+### Decision: Community Layer｜品牌共创参与层进入 Parking Lot
+
+- Decision: 将 Community Layer｜品牌共创参与层记录为 Parking Lot，当前不进入 MVP，不影响 Session、Space、Product 开发节奏。
+- Context: 该想法探索客户如何以最低成本参与 Piano by Her 的成长，获得轻微掌控感和归属感，但目前尚未进入开发。
+- Options Considered: 立即加入 Space 或 Product 开发；创建独立 Community 系统；记录到 Parking Lot。
+- Final Choice: 只记录到 Parking Lot。
+- Reasoning: Her Trace、Her Choice、Her Archive 都可能提高情感价值和复访理由，但会影响空间运营与品牌参与机制。当前没有运营稳定后的真实反馈，不应提前开发或新增系统。
+- Future Validation: 等待未来空间运营稳定后，基于真实客户反馈、复访行为和创始人明确要求重新评估。
+- 影响模块: Parking Lot
