@@ -600,3 +600,24 @@ Membership 已从泛泛的“会员升级”变成清晰的产品定义。为了
 - 价格设计: 未开启
 - 代码: 未修改
 - GitHub push: 未执行，由用户手动完成
+
+## v0.28 - 2026-07-24
+
+### 更新
+
+- 在 [Parking Lot](./Parking%20Lot（以后再做）/ParkingLot.md) 中新增 House Rules 风格墙面索引。
+- 新增 [Space Inspiration｜线下店布置参考](./Parking%20Lot（以后再做）/Space%20Inspiration｜线下店布置参考/Space_Inspiration.md)。
+- 保存 House Rules 风格墙面参考图片。
+- 更新 [Decision Log](./Decision_Log.md)，记录该视觉参考暂存为 Space Inspiration 的原因。
+
+### 升级原因
+
+House Rules 风格墙面符合未来线下空间可能需要的生活感、温度和非商业标语感，但当前只是视觉灵感，不应进入 Space 执行或创建任务。
+
+### 当前状态
+
+- House Rules 风格墙面: Parking Lot / Visual Inspiration
+- Space 执行: 未进入
+- 新任务: 未创建
+- 代码: 未修改
+- GitHub push: 未执行，由用户手动完成

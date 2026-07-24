@@ -34,6 +34,7 @@ Parking Lot 只用于:
 | Community Layer｜品牌共创参与层 | 探索客户以低成本参与品牌成长的方式；当前不进入 MVP，不影响 Session、Space、Product 开发节奏 | Parking Lot |
 | Piano Fingering Guide（钢琴指法指引牌） | 可能降低成人体验者第一次接触钢琴的学习门槛，但呈现方式、材质、尺寸和是否长期放置都待验证 | 待设计 / 待验证 |
 | Session Song Reveal（歌曲呈现时机） | 歌曲如何出现会影响客户与 Session 的音乐连接，但需继续比较 Before We Meet 提前发送与 Session 内播放两种方案 | 待讨论 |
+| House Rules 风格墙面 | 线下空间墙面文字元素参考，喜欢其手写感、留白、生活感和温度；当前只作为 Space Inspiration 保存 | Parking Lot / Visual Inspiration |
 
 ## 处理规则
 
@@ -156,6 +157,14 @@ Session Collection 和 Membership 都包含持续体验 Session 的可能。
 ```
 
 ## Product / Experience Backlog
+
+## Space Inspiration｜线下店布置参考
+
+- [House Rules 风格墙面](./Space%20Inspiration｜线下店布置参考/Space_Inspiration.md)
+
+状态: Parking Lot / Visual Inspiration
+
+当前只记录，不进入 Space 执行，不创建任务。
 
 ### Community Layer｜品牌共创参与层
 

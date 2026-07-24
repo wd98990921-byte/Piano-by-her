@@ -437,3 +437,13 @@ How will we know later whether this decision was right?
 - Reasoning: 当前没有足够真实客户反馈、空间运营数据和购买行为证据判断两者边界。提前定义价格、路径或权益会增加产品复杂度。
 - Future Validation: 未来基于客户心理、购买路径、运营数据和创始人明确要求重新讨论。
 - 影响模块: Parking Lot, Product
+
+### Decision: House Rules 风格墙面进入 Space Inspiration
+
+- Decision: 将 House Rules 风格墙面参考图和说明记录到 Parking Lot / Space Inspiration｜线下店布置参考，状态为 Visual Inspiration。
+- Context: 创始人希望未来在线下空间加入类似 House Rules 的墙面文字元素，偏好手写字体感、简单排版、留白、生活感和温度。
+- Options Considered: 直接进入 Space 设计；加入装修采购任务；仅作为 Space Inspiration 保存。
+- Final Choice: 仅作为 Space Inspiration 保存，不进入 Space 执行，不创建任务。
+- Reasoning: 该想法有明确审美方向，但目前只是视觉参考，不应提前影响 Landing Room、Arrival 或 Cafe 的正式空间设计。
+- Future Validation: 未来进入具体空间墙面设计时，再根据品牌调性、实际墙面位置和用户体验判断是否采用。
+- 影响模块: Parking Lot, Space
