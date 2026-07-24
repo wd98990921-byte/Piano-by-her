@@ -447,3 +447,13 @@ How will we know later whether this decision was right?
 - Reasoning: 该想法有明确审美方向，但目前只是视觉参考，不应提前影响 Landing Room、Arrival 或 Cafe 的正式空间设计。
 - Future Validation: 未来进入具体空间墙面设计时，再根据品牌调性、实际墙面位置和用户体验判断是否采用。
 - 影响模块: Parking Lot, Space
+
+### Decision: Outdoor Sign Board｜门口立牌进入 Space Inspiration
+
+- Decision: 将 Outdoor Sign Board｜门口立牌参考图和说明记录到 Parking Lot / Space Inspiration｜线下店布置参考，状态为 Visual Inspiration。
+- Context: 创始人希望未来店门口可以有类似风格的独立立牌，偏好简单文字表达、强视觉识别、轻微幽默感或品牌态度。
+- Options Considered: 直接进入门口区域设计；创建门头或采购任务；仅作为 Space Inspiration 保存。
+- Final Choice: 仅作为 Space Inspiration 保存，不进入 Space 执行，不创建任务。
+- Reasoning: 当前参考的是形式和氛围，未来文字仍需重新设计并符合 Piano by Her 品牌语言。提前进入执行会把视觉参考误变成正式门店方案。
+- Future Validation: 未来进入店铺入口 / 门口区域设计时，再结合实际位置、品牌语言和街区环境判断是否采用。
+- 影响模块: Parking Lot, Space
