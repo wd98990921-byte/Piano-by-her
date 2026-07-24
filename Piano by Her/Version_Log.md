@@ -577,3 +577,26 @@ Membership 已从泛泛的“会员升级”变成清晰的产品定义。为了
 - 新数据库: 未创建
 - 代码: 未修改
 - GitHub push: 未执行，由用户手动完成
+
+## v0.27 - 2026-07-24
+
+### 更新
+
+- 更新 [Parking Lot](./Parking%20Lot（以后再做）/ParkingLot.md)，新增 Product Decision Pending 分类。
+- 记录 Session Collection vs Membership 产品边界设计，状态为 Pending。
+- 明确该问题不创建任务、不进入开发，只作为未来产品决策问题保存。
+- 更新 [Decision Log](./Decision_Log.md)，记录该问题进入 Product Decision Pending 的原因。
+
+### 升级原因
+
+当前产品结构中 Single Session、Session Collection、Membership 的层级已经出现潜在边界问题。Session Collection 和 Membership 都可能包含持续体验 Session，目前缺少足够信息决定，应先记录为待未来讨论的产品决策问题，而不是提前拆任务或开发。
+
+### 当前状态
+
+- Product Decision Pending: ☑ 已新增
+- Session Collection vs Membership 产品边界设计: Pending
+- 执行任务: 未创建
+- 开发排期: 未创建
+- 价格设计: 未开启
+- 代码: 未修改
+- GitHub push: 未执行，由用户手动完成

@@ -9,6 +9,7 @@ Parking Lot 只用于:
 - 有想法但尚未开始开发的 Session。
 - 尚未确定方向的主题。
 - 尚未开始开发的 Medium、产品、空间或长期方向。
+- 已经发现但暂时缺少信息、需要未来重新讨论的产品决策问题。
 
 已经完成概念设计的 Session 不继续放在 Parking Lot。
 
@@ -41,6 +42,118 @@ Parking Lot 只用于:
 - 进入 Parking Lot 不代表否定，只代表不是当前阶段。
 - 已完成 Concept Version 的 Session 不继续放在 Parking Lot。
 - 如果新产品、流程、物料、功能或空间配置不能通过 Challenger 五问，先记录在这里。
+
+## Product Decision Pending
+
+### 定义
+
+Product Decision Pending 用于记录已经发现的重要产品决策问题。
+
+这些问题:
+
+- 不属于当前执行任务。
+- 当前没有足够信息决定。
+- 未来需要重新讨论和确认。
+
+与 Ideas 区分:
+
+- Ideas: 未来可能创造的东西。
+- Product Decision Pending: 已经存在的产品设计问题，需要未来解决。
+
+### Session Collection vs Membership 产品边界设计
+
+状态: Pending
+
+当前不创建任务。
+
+当前不进入开发。
+
+当前仅记录。
+
+#### 背景
+
+目前 Piano by Her 产品结构:
+
+```text
+Single Session｜单次体验
+
+↓
+
+Session Collection｜完整 Session 体验系列
+
+↓
+
+Piano by Her Membership｜长期陪伴会员
+```
+
+发现潜在问题:
+
+Session Collection 和 Membership 都包含持续体验 Session 的可能。
+
+需要未来明确两者区别。
+
+#### 当前思考方向
+
+##### Session Collection
+
+可能定位:
+
+```text
+完成不同人生章节的体验旅程。
+```
+
+核心价值:
+
+探索。
+
+体验不同主题 Session。
+
+关键词:
+
+- Chapter Collection。
+- 完成。
+- 探索。
+- 人生阶段记录。
+
+##### Membership
+
+可能定位:
+
+```text
+长期拥有一个回到自己的空间。
+```
+
+核心价值:
+
+关系。
+
+持续回来。
+
+关键词:
+
+- 陪伴。
+- 习惯。
+- 长期连接。
+- 个人时间。
+
+#### 待未来确认的问题
+
+1. 非会员是否可以购买完整 Session Collection？
+2. Membership 是否包含 Session Collection？
+3. 如果包含，如何避免 Session Collection 失去独立价值？
+4. 两者价格关系如何设计？
+5. 客户购买路径应该是 Single Session → Collection → Membership，还是 Single Session → Membership？
+6. 哪一种结构更符合客户心理？
+
+#### 当前原则
+
+不要为了增加产品层级而增加复杂度。
+
+最终结构需要让客户一眼理解:
+
+```text
+我现在为什么购买这个？
+```
 
 ## Product / Experience Backlog
 

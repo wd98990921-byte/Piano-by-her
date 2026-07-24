@@ -427,3 +427,13 @@ How will we know later whether this decision was right?
 - Reasoning: Membership 已从泛泛的“会员升级”变成清晰的产品定义，但当前仍不进入执行任务、不拆解运营任务、不进入开发排期。独立文档能保存产品定义，同时避免打乱 Session、Space、Product 当前节奏。
 - Future Validation: 等待空间确定和开业运营验证，根据真实客户反馈迭代。
 - 影响模块: Product, Project Index, Decision Log, Version Log
+
+### Decision: Session Collection vs Membership 产品边界进入 Product Decision Pending
+
+- Decision: 将 Session Collection vs Membership 产品边界设计记录为 Product Decision Pending，状态为 Pending。
+- Context: 当前产品结构包含 Single Session → Session Collection → Piano by Her Membership。Session Collection 与 Membership 都可能包含持续体验 Session，需要未来明确两者区别。
+- Options Considered: 立即定义两者价格和购买路径；把问题拆成执行任务；仅记录为 Product Decision Pending。
+- Final Choice: 仅记录为 Product Decision Pending，不创建任务，不进入开发。
+- Reasoning: 当前没有足够真实客户反馈、空间运营数据和购买行为证据判断两者边界。提前定义价格、路径或权益会增加产品复杂度。
+- Future Validation: 未来基于客户心理、购买路径、运营数据和创始人明确要求重新讨论。
+- 影响模块: Parking Lot, Product
